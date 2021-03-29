@@ -1,0 +1,2 @@
+# mypomconfig
+pom文件
